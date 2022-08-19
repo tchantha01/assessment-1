@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = 'tracks the changes you make within your block of code'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,7 +19,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = 'is the library(repository) that holds your codes that can be viewed by others'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +27,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = 'creates your repository for GitHub within your terminal'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +35,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = 'creates a copy of your repository'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +43,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = 'tells you about the repository'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +54,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = 'adds files to be tracked'
+let gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +66,8 @@
 */
 
 //CODE HERE
-
+let gitCommitDefinition = 'creates a snapshot of the codes being tracked'
+let gitCommitCode = 'git commit -m "message"'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +76,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = 'takes your code and transfers it to your repository within your GitHub '
