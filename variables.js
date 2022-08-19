@@ -3,7 +3,7 @@
 
 //CODE HERE 
 
-let myName = 'Toky Chanthavong'
+// let myName = 'Toky Chanthavong'
 // console.log(myName)
 
 //////////////////PROBLEM 2////////////////////
@@ -11,7 +11,7 @@ let myName = 'Toky Chanthavong'
 
 //CODE HERE
 
-let faveNum = 9
+// let faveNum = 9
 // console.log(faveNum)
 
 //////////////////PROBLEM 3////////////////////
@@ -31,7 +31,7 @@ let lovesCode = true
 
 //CODE HERE
 
-let faveNum = 9
+// let faveNum = 9
 
 // if (faveNum === 13){
 //   console.log('lucky 13')
@@ -45,6 +45,8 @@ let faveNum = 9
 */
 
 //CODE HERE
+let faveNum = '9'
 
-// for (let i = 0; i < 5; i++){
-//   console.log()
+for (let i = 0; i < 5; i++){
+  console.log(faveNum)
+}
