@@ -39,3 +39,4 @@ if(minChars && letterCheck && upperCheck && numCheck){
     console.log('Invalid password')
 }
 }
+//Have a better understanding for the syntax after looking ahead into Monday's lecture handouts.
